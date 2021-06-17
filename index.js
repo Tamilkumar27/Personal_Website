@@ -1,0 +1,1 @@
+alert("This Webiste is only for Mobile Screen. For other screen, website is Under Construction. ");
